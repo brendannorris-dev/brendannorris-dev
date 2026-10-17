@@ -28,3 +28,5 @@ I am actively looking to bridge my background in business intelligence, data eng
 
 ### What I'm Working On
 * Constantly trying to learn and grow my technical skills, focusing on programming via backend engineering frameworks.
+* Working on a combat simulator for balancing in Python, measuring time to kill and win rates.
+* Practicing narrative and systems design in game states through TTRPG campaign design.
