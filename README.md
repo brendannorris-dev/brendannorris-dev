@@ -27,6 +27,6 @@ I am actively looking to bridge my background in business intelligence, data eng
 * Analytics: Tableau, PowerBI, Statistical Modeling, Telemetry Analysis
 
 ### What I'm Working On
-* Constantly trying to learn and grow my technical skills, focusing on programming via backend engineering frameworks.
-* Working on a combat simulator for balancing in Python, measuring time to kill and win rates.
-* Practicing narrative and systems design in game states through TTRPG campaign design.
+* **Continuous Learning**: Consistently growing backend engineering skillset, focusing on programming optimization & system architecture through boot.dev
+* **Combat Balancer**: Developing a Python simulation tool to measure Time-To-Kill (TTK) and win-rate probabilities to test encounter balance/progression
+* **Systems and State Design**: Practicing non-linear narrative progression, variable tracking and parallel game states through macro TTRPG campaign design
