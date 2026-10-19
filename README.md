@@ -29,4 +29,4 @@ I am actively looking to bridge my background in business intelligence, data eng
 ### What I'm Working On
 * **Continuous Learning**: Consistently growing backend engineering skillset, focusing on programming optimization & system architecture through boot.dev
 * **Combat Balancer**: Developing a Python simulation tool to measure Time-To-Kill (TTK) and win-rate probabilities to test encounter balance/progression
-* **Systems and State Design**: Practicing non-linear narrative progression, variable tracking and parallel game states through macro TTRPG campaign design
+* ![**Systems and State Design**](./progression-system-design): Practicing non-linear narrative progression, variable tracking and parallel game states through macro TTRPG campaign design
